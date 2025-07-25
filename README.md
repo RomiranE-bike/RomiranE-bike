@@ -3,7 +3,7 @@
 # Welcome to My Profile!
 This resource or repository is for educational and research purposes. Its use is subject to permission.
 # 
-# Thaks to GENIRAN FAN ( با سپاس از شرکت ژنیران فن)
+# Thaks to GENIRAN FAN ( با سپاس از ژنیران فن)
 فا
 <!--
 **RomiranE-bike/RomiranE-bike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
