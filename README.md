@@ -7,8 +7,8 @@ This resource or repository is for educational and research purposes. Its use is
 
 ### 🔍 My Repositories  
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.  
-- [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.
-- [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.
+- [AT-89S52-project](https://github.com/RomiranE-bike/AT-89S52-project) - Project to create ultrasonic waves with swing and pattern capabilities with AT89S52.
+- [Romiran_Ebike_project](https://github.com/RomiranE-bike/Romiran_Ebike_project) - The Romeiran electric scooter project is an ambitious personal idea that I am building and developing with the aim of producing and commercializing it. I own the ownership or rights to the name, logo, design, idea, and document. Any use of them is subject to obtaining permission..
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.
 <!--
