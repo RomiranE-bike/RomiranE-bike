@@ -2,9 +2,9 @@
 ## Hi there 👋
 # Welcome to My Profile!
 This resource or repository is for educational and research purposes. Its use is subject to permission.
-
-![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
-
+# ------------------------------------------------------------------------------------------------------
+# Thaks to GENIRAN FAN ( با سپاس از شرکت ژنیران فن)
+فا
 <!--
 **RomiranE-bike/RomiranE-bike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
