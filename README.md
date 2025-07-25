@@ -13,14 +13,14 @@ This resource or repository is for educational and research purposes. Its use is
 - [AT-89S52-project](https://github.com/RomiranE-bike/AT-89S52-project) - Project to create ultrasonic waves with swing and pattern capabilities with AT89S52.
 - 
 
-
-
-- [eflask-app1400](https://github.com/RomiranE-bike/eflask-app1400) - this is a test for heroku and flask app deployment.
+- [HV_Programmer](https://github.com/RomiranE-bike/HV_Programmer) - AVR Resetter.
+- [RGB_LED](https://github.com/RomiranE-bike/RGB_LED) - Color combination flasher.
+- 
 - [tse-app1401](https://github.com/RomiranE-bike/tse-app1401) - market data scraping and analysis.
+- [eflask-app1400](https://github.com/RomiranE-bike/eflask-app1400) - this is a test for heroku and flask app deployment.
 - [git-heroku-setup](https://github.com/RomiranE-bike/git-heroku-setup) - some tips for git and heroku-00-11-27
 - 
-- [repo name](https://github.com/RomiranE-bike/repo name) - description.
-- [repo name](https://github.com/RomiranE-bike/repo name) - description.
+
 - [repo name](https://github.com/RomiranE-bike/repo name) - description.
 - [repo name](https://github.com/RomiranE-bike/repo name) - description.
   
