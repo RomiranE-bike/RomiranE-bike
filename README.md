@@ -5,7 +5,7 @@ This resource or repository is for educational and research purposes. Its use is
 # 
 # Thaks to GENIRAN FAN ( با سپاس از ژنیران فن)
 
-### 🔍 Featured Repositories  
+### 🔍 My Repositories  
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.  
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.
