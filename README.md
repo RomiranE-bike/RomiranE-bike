@@ -21,7 +21,8 @@ This resource or repository is for educational and research purposes. Its use is
 - [git-heroku-setup](https://github.com/RomiranE-bike/git-heroku-setup) - some tips for git and heroku-00-11-27
 - 
 
-- [repo name](https://github.com/RomiranE-bike/repo name) - description.
+- [Thermo_7Seg](https://github.com/RomiranE-bike/Thermo_7Seg) - 
+Multi-sensor thermoswitch with temperature adjustment capability and seven-segment display.
 - [repo name](https://github.com/RomiranE-bike/repo name) - description.
   
 <!--
