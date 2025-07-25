@@ -6,7 +6,7 @@ This resource or repository is for educational and research purposes. Its use is
 # Thaks to GENIRAN FAN ( با سپاس از ژنیران فن)
 
 ### 🔍 Featured Repositories  
-- [Repo 7](https://github.com/yourname/repo7) - Description.  
+- [Repo 7](https://github.com/RomiranE-bike/function-genrator) - Description.  
 - [Repo 8](https://github.com/yourname/repo8) - Description.  
 - [Repo 9](https://github.com/yourname/repo9) - Description.  
 <!--
