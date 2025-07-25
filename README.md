@@ -12,7 +12,8 @@ This resource or repository is for educational and research purposes. Its use is
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.  
 - [AT-89S52-project](https://github.com/RomiranE-bike/AT-89S52-project) - Project to create ultrasonic waves with swing and pattern capabilities with AT89S52.
 - 
-
+- [Thermo_7Seg](https://github.com/RomiranE-bike/Thermo_7Seg) - 
+Multi-sensor thermoswitch with temperature adjustment capability and seven-segment display.
 - [HV_Programmer](https://github.com/RomiranE-bike/HV_Programmer) - AVR Resetter.
 - [RGB_LED](https://github.com/RomiranE-bike/RGB_LED) - Color combination flasher.
 - 
@@ -21,8 +22,7 @@ This resource or repository is for educational and research purposes. Its use is
 - [git-heroku-setup](https://github.com/RomiranE-bike/git-heroku-setup) - some tips for git and heroku-00-11-27
 - 
 
-- [Thermo_7Seg](https://github.com/RomiranE-bike/Thermo_7Seg) - 
-Multi-sensor thermoswitch with temperature adjustment capability and seven-segment display.
+
 - [repo name](https://github.com/RomiranE-bike/repo name) - description.
   
 <!--
