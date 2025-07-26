@@ -9,19 +9,10 @@
   <!-- Profile image with alt text for accessibility -->
   <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg" width="1800" alt="Romiran E-Bike Projects Logo">
   
-  <!-- Main title with primary keyword -->
-  <h1>Romiran E-Bike Projects</h1>
-  
-  <!-- Subtitle with secondary keywords -->
-  <h2>Open-Source Electric Mobility Solutions</h2>
-  
-  <!-- Important links as badges -->
-  [![Website](https://img.shields.io/badge/🌐_Official_Site-2E8B57)](https://romiran.com)
-  [![Email](https://img.shields.io/badge/📧_Contact-info@romiran.com-D14836)](mailto:info@romiran.com)
 </div>
 
 
-![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
+<!-- ![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)-->
 ## Hi there 👋
 # Welcome to My Profile!
 This resource or repository is for educational and research purposes. Its use is subject to permission.
