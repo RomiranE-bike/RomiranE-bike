@@ -1,13 +1,30 @@
-<!-- ===================== SEO METADATA ===================== -->
-<!-- Hidden elements for search engines (won't display visually) -->
-<meta name="description" content=" electric scooter & BLDC motor control projects by RomiranE-bike - STM32 firmware and FOC motor control">
-<meta name="keywords" content="electric scooter, e-bike, STM32, BLDC motor, FOC algorithm, open-source hardware, RomiranE-bike ,romiran-e-bike-controller-schematic,iran ,mazandaran,mahmoud esmaeili">
-<link rel="canonical" href="https://github.com/RomiranE-bike/RomiranE-bike">
+<!-- ============================================== -->
+<!-- 1. SEO METADATA (Hidden from visual display) -->
+<!-- ============================================== -->
+<!-- 
+  - Description: Appears in Google search results (keep under 160 chars)
+  - Keywords: 5-8 key terms for search engines
+  - Canonical: Prevents duplicate content issues
+-->
+<meta name="description" content="electric scooter & BLDC motor control projects by RomiranE-bike - STM32 firmware and FOC motor control">
+<meta name="keywords" content="e-bike, electric scooter, BLDC motor control, RomiranE-bike,iran ,mazandaran,mahmoud esmaeili">
+<link rel="canonical" href="https://github.com/RomiranE-bike">
 
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ======================== -->
+<!-- 2. PROFILE HEADER -->
+<!-- ======================== -->
+<!-- 
+  - Logo: Use 200x200px for best results
+    PROFILE HEADER - Visual introduction with branding
+  • Centered logo with alt text for accessibility/SEO
+  • Main title (H1) with primary keyword
+  • Subtitle (H2) with secondary keyword
+  • Badges for important links (styled with shields.io)
+  - Badges: Link to key resources
+-->
 <div align="center">
   <!-- Profile image with alt text for accessibility -->
-  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/romiran-e-bike-controller-schematic.jpg" width="1800" alt="Romiran E-Bike Projects Logo">
+  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/romiran-e-bike-controller-schematic.jpg" width="800" alt="Romiran E-Bike Projects Logo">
   
 </div>
 
@@ -20,14 +37,13 @@
 
   ### ⚠️ Intellectual Property Notice
   <div style="background: #FFF3CD; padding: 1rem; border-radius: 8px; border-left: 4px solid #FFC107;">
-    <strong>The Romiran brand and all related projects are proprietary.</strong><br>
-    • All designs, code, and documentation are protected intellectual property.<br>
+    <strong>Romiran E-Bike Projects.</strong><br>
     •   PROJECT OWNERSHIP NOTICE:
-    • The RomiranE-bike electric scooter project represents proprietary research and development work.
-      All intellectual property rights (including but not limited to the RomiranE-bike name, logo, 
-      designs, technical documentation, and product concepts) are exclusively owned by RomiranE-bike.
+    • The RomiranE-bike electric scooter project represents proprietary research and development work.<br>
+      All intellectual property rights (including but not limited to the RomiranE-bike name, logo, <br>
+      designs, technical documentation, and product concepts) are exclusively owned by RomiranE-bike.<br>
   
-    • This repository is shared for educational and collaborative purposes only.
+    • This repository is shared for educational and collaborative purposes only.<br>
       Commercial use, reproduction, or derivative works require express written permission.<br>
   </div>
 </div>
@@ -35,7 +51,7 @@
 <!-- ![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)-->
 ## Hi there 👋
 # Welcome to My Profile!
-This resource or repository is for educational and research purposes. Its use is subject to permission.
+This resource or repository is for educational and research purposes.
 # 
 # Thanks to GENIRAN FAN ( با سپاس از ژنیران فن)
 
@@ -71,12 +87,20 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 
 ---
 
+<!-- 
+  FOOTER - Engagement elements
+  • GitHub Stats API for dynamic metrics
+  • Visitor counter badge
+  • Structured data for rich snippets
+-->
 <div align="center">
+  ![GitHub Stats](https://github-readme-stats...)
   
+  [![Explore All](https://img.shields.io/...)](https://github.com/...)
+  ![Visitors](https://komarev.com/...)
   [![View All Repositories](https://img.shields.io/badge/Explore_All_Projects-View_Repository_List-8A2BE2)](https://github.com/RomiranE-bike?tab=repositories)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=RomiranE-bike&color=blueviolet&label=Profile+Views)
-
 </div>
 
 
