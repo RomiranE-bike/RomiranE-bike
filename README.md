@@ -1,7 +1,7 @@
 <!-- ===================== SEO METADATA ===================== -->
 <!-- Hidden elements for search engines (won't display visually) -->
-<meta name="description" content="Open-source electric scooter & BLDC motor control projects by Romiran - STM32 firmware and motor control algorithms">
-<meta name="keywords" content="electric scooter, e-bike, STM32, BLDC motor, FOC algorithm, open-source hardware, Romiran">
+<meta name="description" content=" electric scooter & BLDC motor control projects by RomiranE-bike - STM32 firmware and FOC motor control">
+<meta name="keywords" content="electric scooter, e-bike, STM32, BLDC motor, FOC algorithm, open-source hardware, RomiranE-bike">
 <link rel="canonical" href="https://github.com/RomiranE-bike/RomiranE-bike">
 
 <!-- ===================== PROFILE HEADER ===================== -->
