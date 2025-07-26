@@ -24,26 +24,20 @@
 -->
 <div align="center">
   <!-- Profile image with alt text for accessibility -->
-  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/romiran-e-bike-controller-schematic.jpg" width="800" alt="Romiran E-Bike Projects Logo">
+  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/romiran-e-bike-controller-schematic.jpg" width="1800" alt="Romiran E-Bike Projects Logo">
   
 </div>
 
 
-<div align="center">
-  
-  ![Romiran Banner](profile.jpg)
-
-  # Romiran E-Bike Projects
-
-  ### ⚠️ Intellectual Property Notice
-  <div style="background: #FFF3CD; padding: 1rem; border-radius: 8px; border-left: 4px solid #FFC107;">
-    <strong>  PROJECT OWNERSHIP NOTICE: </strong><br>  
-    • The RomiranE-bike electric scooter project represents proprietary research and development work.
-      All intellectual property rights (including but not limited to the RomiranE-bike name, logo, 
-      designs, technical documentation, and product concepts) are exclusively owned by RomiranE-bike.
-  
-    • This repository is shared for educational and collaborative purposes only.
-      Commercial use, reproduction, or derivative works require express written permission.
+<div align="center">  
+  <strong>  RomiranE-Bike Projects </strong><br> 
+  <strong>⚠️ Intellectual Property Notice </strong><br> 
+  <div style="background: #FFF3CD; padding: 1rem; border-radius: 8px; border-left: 4px solid #FFC107;">  
+   The RomiranE-bike electric scooter project represents proprietary research and development work.<br> 
+   All intellectual property rights (including but not limited to the RomiranE-bike name, logo, <br> 
+   designs, technical documentation, and product concepts) are exclusively owned by RomiranE-bike.<br> 
+   This repository is shared for educational and collaborative purposes only.<br> 
+   Commercial use, reproduction, or derivative works require express written permission.<br> 
   </div>
 </div>
 
@@ -93,13 +87,11 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
   • Structured data for rich snippets
 -->
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats...)
   
-  [![Explore All](https://img.shields.io/...)](https://github.com/...)
-  ![Visitors](https://komarev.com/...)
   [![View All Repositories](https://img.shields.io/badge/Explore_All_Projects-View_Repository_List-8A2BE2)](https://github.com/RomiranE-bike?tab=repositories)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=RomiranE-bike&color=blueviolet&label=Profile+Views)
+  
 </div>
 
 
