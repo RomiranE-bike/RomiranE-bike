@@ -1,4 +1,74 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/RomiranE-bike/Romiran_Ebike_project/main/assets/profile-header.jpg" width="100%" alt="Romiran E-Bike Solutions"/>
+  
+  <h1>Romiran E-Bike Engineering</h1>
+  
+  <p>
+    <strong>Innovative E-Mobility Systems</strong> | Open-Source Hardware | Sustainable Transportation
+  </p>
+  
+  [![Website](https://img.shields.io/badge/Visit-Romiran.com-2E8B57)](https://romiran.com)
+  [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5)](https://linkedin.com/company/romiran)
+  [![Email](https://img.shields.io/badge/Contact-Email-D14836)](mailto:info@romiran.com)
+</div>
+
+---
+
+## 🚴 Featured E-Bike Projects
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+
+[![Romiran E-Bike Controller](https://github-readme-stats.vercel.app/api/pin/?username=RomiranE-bike&repo=Romiran_Ebike_project&show_owner=true&theme=algolia)](https://github.com/RomiranE-bike/Romiran_Ebike_project)
+
+[![Battery Management](https://github-readme-stats.vercel.app/api/pin/?username=RomiranE-bike&repo=Battery_Management_System&show_owner=true&theme=algolia)](https://github.com/RomiranE-bike/Battery_Management_System)
+
+[![Telemetry Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=RomiranE-bike&repo=Telemetry-Dashboard&show_owner=true&theme=algolia)](https://github.com/RomiranE-bike/Telemetry-Dashboard)
+
+</div>
+
+---
+
+## 🔧 Core Technologies
+
+<div align="center">
+
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-000000?logo=can)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?logo=iot)
+![3D Printing](https://img.shields.io/badge/3D_Printing-FF6E00?logo=prusa)
+
+</div>
+
+---
+
+## 📊 Project Health Metrics
+
+| Repository | Last Commit | Open Issues | Pull Requests |
+|------------|-------------|-------------|---------------|
+| [E-Bike Controller](https://github.com/RomiranE-bike/Romiran_Ebike_project) | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/Romiran_Ebike_project) | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/Romiran_Ebike_project) | ![PRs](https://img.shields.io/github/issues-pr/RomiranE-bike/Romiran_Ebike_project) |
+| [Battery System](https://github.com/RomiranE-bike/Battery_Management_System) | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/Battery_Management_System) | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/Battery_Management_System) | ![PRs](https://img.shields.io/github/issues-pr/RomiranE-bike/Battery_Management_System) |
+
+---
+
+## 🌱 Current Development Focus
+
+- **Torque Sensor Calibration Algorithms**
+- **Regenerative Braking Optimization**
+- **Bluetooth LE Integration for Mobile App**
+
+---
+
+<div align="center">
+  
+  [![View All Repositories](https://img.shields.io/badge/Explore_All_Projects-View_Repository_List-8A2BE2)](https://github.com/RomiranE-bike?tab=repositories)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=RomiranE-bike&color=blueviolet&label=Profile+Views)
+
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg" width="1800" style="border-radius: 50%; border: 4px solid #2E4053" alt="Romiran E-Bike Engineer"/>
   
   <h1>Your Name</h1>
