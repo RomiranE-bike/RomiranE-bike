@@ -4,13 +4,7 @@
 This resource or repository is for educational and research purposes. Its use is subject to permission.
 # 
 # Thanks to GENIRAN FAN ( با سپاس از ژنیران فن)
-<div align="center">
-  
-  [![View All Repositories](https://img.shields.io/badge/Explore_All_Projects-View_Repository_List-8A2BE2)](https://github.com/RomiranE-bike?tab=repositories)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=RomiranE-bike&color=blueviolet&label=Profile+Views)
 
-</div>
 ## 📌 Pinned Repositories
 - [Romiran_Ebike_project](https://github.com/RomiranE-bike/Romiran_Ebike_project) - The Romeiran electric scooter project is an ambitious personal idea that I am building and developing with the aim of producing and commercializing it. I own the ownership or rights to the name, logo, design, idea, and document. Any use of them is subject to obtaining permission.
 <!--START_SECTION:automated-pins-->
@@ -44,7 +38,13 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 
 ---
 
+<div align="center">
+  
+  [![View All Repositories](https://img.shields.io/badge/Explore_All_Projects-View_Repository_List-8A2BE2)](https://github.com/RomiranE-bike?tab=repositories)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=RomiranE-bike&color=blueviolet&label=Profile+Views)
 
+</div>
 
 
 <!--
