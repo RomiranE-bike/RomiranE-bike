@@ -1,3 +1,51 @@
+<!-- Hidden SEO Elements -->
+<meta name="description" content="Open-source electric scooter & BLDC motor control projects by Romiran - STM32 firmware, CAN bus implementation, and motor control algorithms">
+<meta name="keywords" content="electric scooter, e-bike, STM32, BLDC motor, FOC algorithm, open-source hardware, Romiran, GitHub repository">
+<!-- Canonical URL -->
+<link rel="canonical" href="https://github.com/RomiranE-bike/RomiranE-bike">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg" width="200" alt="Romiran E-Bike Projects Logo - Open Source Electric Mobility Solutions">
+
+  <h1>Romiran E-Bike Projects</h1>
+  
+  <h2>Open-Source Electric Mobility Solutions</h2>
+  
+  [![Website](https://img.shields.io/badge/🌐_Romiran_Official-2E8B57)](https://romiran.com)
+  [![License](https://img.shields.io/badge/📜_All_Rights_Reserved-Romiran_2024-blue)](https://github.com/RomiranE-bike)
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔋 Electric Vehicle Systems
+<div align="center">
+
+[![Romiran E-Scooter Controller](https://github-readme-stats.vercel.app/api/pin/?username=RomiranE-bike&repo=Romiran_Ebike_project&theme=dark&show_owner=true)](https://github.com/RomiranE-bike/Romiran_Ebike_project)
+
+[![BLDC Motor Controller](https://github-readme-stats.vercel.app/api/pin/?username=RomiranE-bike&repo=BLDC_motor_project&theme=dark&show_owner=true)](https://github.com/RomiranE-bike/BLDC_motor_project)
+
+</div>
+
+### 🔬 Embedded Development
+- [AT-89S52 Ultrasonic Generator](https://github.com/RomiranE-bike/AT-89S52-project) - Programmable waveform controller
+- [ATTiny26 Function Generator](https://github.com/RomiranE-bike/function-genrator) - Compact signal generator
+
+---
+
+## 🛠️ Core Technologies
+
+```python
+# Hardware
+mcu = ["STM32F103C8T6", "AT89S52", "ATTiny26"]
+sensors = ["Torque", "Hall Effect", "Temperature"]
+
+# Software
+languages = ["Embedded C", "Python", "Assembly"]
+tools = ["Keil uVision", "PlatformIO", "Proteus"]
+
+
 ![Romiran E-Bike Profile Banner](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
 
 # Romiran E-Bike Projects | Open-Source E-Mobility Solutions
@@ -9,6 +57,9 @@
 
 ---
 
+
+<!--
+just test comment
 ## 🚀 Featured Projects
 
 ### 🔌 Electric Mobility
@@ -32,9 +83,8 @@ mcu = ["STM32F103C8T6", "AT89S52", "ATTiny26"]
 protocols = ["CAN Bus", "PWM", "UART"]
 tools = ["PlatformIO", "Keil uVision", "Proteus"]
 
-<!--
-just test comment
--->
+
+
 
 ![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
 ## Hi there 👋
@@ -98,4 +148,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
