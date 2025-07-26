@@ -1,3 +1,71 @@
+<!-- ===================== SEO METADATA ===================== -->
+<!-- Hidden elements for search engines (won't display visually) -->
+<meta name="description" content="Open-source electric scooter & BLDC motor control projects by Romiran - STM32 firmware and motor control algorithms">
+<meta name="keywords" content="electric scooter, e-bike, STM32, BLDC motor, FOC algorithm, open-source hardware, Romiran">
+<link rel="canonical" href="https://github.com/RomiranE-bike/RomiranE-bike">
+
+<!-- ===================== PROFILE HEADER ===================== -->
+<div align="center">
+  <!-- Profile image with alt text for accessibility -->
+  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg" width="200" alt="Romiran E-Bike Projects Logo">
+  
+  <!-- Main title with primary keyword -->
+  <h1>Romiran E-Bike Projects</h1>
+  
+  <!-- Subtitle with secondary keywords -->
+  <h2>Open-Source Electric Mobility Solutions</h2>
+  
+  <!-- Important links as badges -->
+  [![Website](https://img.shields.io/badge/🌐_Official_Site-2E8B57)](https://romiran.com)
+  [![Email](https://img.shields.io/badge/📧_Contact-info@romiran.com-D14836)](mailto:info@romiran.com)
+</div>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<!-- Project cards using GitHub API -->
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+
+<!-- Project 1: Main E-Bike Controller -->
+[![Romiran E-Scooter Controller](https://github-readme-stats.vercel.app/api/pin/?username=RomiranE-bike&repo=Romiran_Ebike_project&theme=dark&show_owner=true)](https://github.com/RomiranE-bike/Romiran_Ebike_project)
+
+<!-- Project 2: BLDC Motor Control -->
+[![BLDC Motor Controller](https://github-readme-stats.vercel.app/api/pin/?username=RomiranE-bike&repo=BLDC_motor_project&theme=dark&show_owner=true)](https://github.com/RomiranE-bike/BLDC_motor_project)
+
+</div>
+
+<!-- ===================== TECHNOLOGY STACK ===================== -->
+## 🛠️ Core Technologies
+
+<!-- Code block format for better readability -->
+```python
+# Hardware
+mcu = ["STM32F103C8T6", "AT89S52", "ATTiny26"]
+sensors = ["Torque", "Hall Effect", "Temperature"]
+
+# Software
+languages = ["Embedded C", "Python", "Assembly"]
+tools = ["Keil uVision", "PlatformIO", "Proteus"]
+<!-- ===================== PROJECT HIGHLIGHTS ===================== -->
+📌 Key Features
+<!-- Table format for SEO-friendly feature display -->
+Feature	Implementation	Benefit
+FOC Algorithm	BLDC Motor Project	15% efficiency gain
+CAN Bus	E-Bike Project	Real-time data sync
+Waveform Gen	AT-89S52 Project	Custom patterns
+<!-- ===================== FOOTER & STATS ===================== --><div align="center"> <!-- GitHub statistics cards --> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomiranE-bike&show_icons=true&theme=dark) <!-- Navigation buttons -->
+https://img.shields.io/badge/%F0%9F%94%8D_View_All_Repositories-8A2BE2
+
+<!-- Profile view counter -->
+https://komarev.com/ghpvc/?username=RomiranE-bike&color=blueviolet&label=Profile+Views
+
+</div><!-- ===================== STRUCTURED DATA ===================== --><!-- Hidden schema markup for search engines --><script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Organization", "name": "Romiran E-Bike Projects", "url": "https://github.com/RomiranE-bike", "description": "Open-source electric vehicle control systems", "keywords": ["electric scooter", "bldc motor control", "stm32 firmware"] } </script>
+
+
+
+<!--
+just test comment*****************************************
+
 <!-- Hidden SEO Elements -->
 <meta name="description" content="Open-source electric scooter & BLDC motor control projects by Romiran - STM32 firmware, CAN bus implementation, and motor control algorithms">
 <meta name="keywords" content="electric scooter, e-bike, STM32, BLDC motor, FOC algorithm, open-source hardware, Romiran, GitHub repository">
@@ -58,8 +126,7 @@ tools = ["Keil uVision", "PlatformIO", "Proteus"]
 ---
 
 
-<!--
-just test comment
+
 ## 🚀 Featured Projects
 
 ### 🔌 Electric Mobility
@@ -135,7 +202,7 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 
 
   
-<!--
+//<!--
 **RomiranE-bike/RomiranE-bike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -149,4 +216,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
+-->*******************************
