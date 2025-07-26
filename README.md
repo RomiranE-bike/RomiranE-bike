@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg" width="180" style="border-radius: 100%; border: 4px solid #2E4053" alt="Romiran E-Bike Engineer"/>
+  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg" width="1800" style="border-radius: 50%; border: 4px solid #2E4053" alt="Romiran E-Bike Engineer"/>
   
   <h1>Your Name</h1>
   
