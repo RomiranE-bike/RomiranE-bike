@@ -37,14 +37,13 @@
 
   ### ⚠️ Intellectual Property Notice
   <div style="background: #FFF3CD; padding: 1rem; border-radius: 8px; border-left: 4px solid #FFC107;">
-    <strong>Romiran E-Bike Projects.</strong><br>
-    •   PROJECT OWNERSHIP NOTICE:
-    • The RomiranE-bike electric scooter project represents proprietary research and development work.<br>
-      All intellectual property rights (including but not limited to the RomiranE-bike name, logo, <br>
-      designs, technical documentation, and product concepts) are exclusively owned by RomiranE-bike.<br>
+    <strong>  PROJECT OWNERSHIP NOTICE: </strong><br>  
+    • The RomiranE-bike electric scooter project represents proprietary research and development work.
+      All intellectual property rights (including but not limited to the RomiranE-bike name, logo, 
+      designs, technical documentation, and product concepts) are exclusively owned by RomiranE-bike.
   
-    • This repository is shared for educational and collaborative purposes only.<br>
-      Commercial use, reproduction, or derivative works require express written permission.<br>
+    • This repository is shared for educational and collaborative purposes only.
+      Commercial use, reproduction, or derivative works require express written permission.
   </div>
 </div>
 
