@@ -23,6 +23,22 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 - 
 
 
+## 🌱 Current Development Focus
+
+- **FOC Algorithms**
+- **STM32F103C8T6**
+- **Ultrasonic Wave swing and pattern**
+
+---
+
+<div align="center">
+  
+  [![View All Repositories](https://img.shields.io/badge/Explore_All_Projects-View_Repository_List-8A2BE2)](https://github.com/RomiranE-bike?tab=repositories)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=RomiranE-bike&color=blueviolet&label=Profile+Views)
+
+</div>
+
 - [repo name](https://github.com/RomiranE-bike/repo name) - description.
   
 <!--
