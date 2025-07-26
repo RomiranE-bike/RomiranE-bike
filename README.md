@@ -6,12 +6,11 @@ This resource or repository is for educational and research purposes. Its use is
 # Thanks to GENIRAN FAN ( با سپاس از ژنیران فن)
 
 ## 📌 Pinned Repositories
-- [Romiran_Ebike_project](https://github.com/RomiranE-bike/Romiran_Ebike_project) - The Romeiran electric scooter project is an ambitious personal idea that I am building and developing with the aim of producing and commercializing it. I own the ownership or rights to the name, logo, design, idea, and document. Any use of them is subject to obtaining permission.
 <!--START_SECTION:automated-pins-->
 <!-- Automatically generated pins will appear here -->
 <!--END_SECTION:automated-pins-->
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+
 ## 🔍 My Repositories 
 - [Romiran_Ebike_project](https://github.com/RomiranE-bike/Romiran_Ebike_project) - The Romeiran electric scooter project is an ambitious personal idea that I am building and developing with the aim of producing and commercializing it. I own the ownership or rights to the name, logo, design, idea, and document. Any use of them is subject to obtaining permission.
 - [BLDC_motor_project](https://github.com/RomiranE-bike/BLDC_motor_project) - Brushless DC motor operation and testing.
@@ -28,7 +27,7 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 - [eflask-app1400](https://github.com/RomiranE-bike/eflask-app1400) - this is a test for heroku and flask app deployment.
 - [git-heroku-setup](https://github.com/RomiranE-bike/git-heroku-setup) - some tips for git and heroku-00-11-27
 - 
-</div>
+
 
 ## 🌱 Current Development Focus
 
