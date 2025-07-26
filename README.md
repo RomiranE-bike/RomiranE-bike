@@ -1,4 +1,34 @@
 ![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
+# Hi there 👋 I'm [Your Name]
+
+🔭 **Currently working on:** [Brief project highlight]  
+🌱 **Learning:** [Skills/technologies]  
+💬 **Ask me about:** [Your expertise]  
+
+## 📌 Pinned Repositories
+*(GitHub shows your 6 pinned repos here automatically)*
+
+## 🏆 Featured Repositories
+
+| Repository | Description | Tech Stack | Stars |
+|------------|-------------|------------|-------|
+| [E-Bike Project](https://github.com/RomiranE-bike/Romiran_Ebike_project) | Next-gen electric bike control system | Python, Arduino, IoT | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/Romiran_Ebike_project?style=flat) |
+| [Solar Tracker](https://github.com/yourusername/solar-tracker) | Automated sunlight optimization system | Raspberry Pi, OpenCV | ![Stars](https://img.shields.io/github/stars/yourusername/solar-tracker?style=flat) |
+| [Smart Charger](https://github.com/yourusername/smart-charger) | AI-powered battery management | TensorFlow, C++ | ![Stars](https://img.shields.io/github/stars/yourusername/smart-charger?style=flat) |
+
+## 🔨 Recent Projects
+- **[Project X](link)** - Short description  
+- **[Project Y](link)** - Short description  
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+⭐ **Pro Tip:** Click on any repository name to explore the code!
+
+
+
+
 ## Hi there 👋
 # Welcome to My Profile!
 This resource or repository is for educational and research purposes. Its use is subject to permission.
