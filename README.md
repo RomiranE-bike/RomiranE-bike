@@ -1,3 +1,41 @@
+![Romiran E-Bike Profile Banner](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
+
+# Romiran E-Bike Projects | Open-Source E-Mobility Solutions
+
+🔍 **Search Keywords:**  
+"Open-Source Electric Scooter Firmware" | "STM32 E-Bike Controller" | "Brushless Motor Control GitHub" | "Ultrasonic Wave Generator AT89S52"
+
+> This resource is for educational/research purposes. All rights reserved for Romiran brand (name, logo, design). Unauthorized use prohibited.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔌 Electric Mobility
+- [Romiran_Ebike_project](https://github.com/RomiranE-bike/Romiran_Ebike_project) - Complete open-source firmware for Romiran electric scooters featuring torque sensing and CAN bus communication
+- [BLDC_motor_project](https://github.com/RomiranE-bike/BLDC_motor_project) - Advanced brushless DC motor controller with Field-Oriented Control (FOC)
+
+### 🔬 Embedded Systems
+- [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator using ATTiny26 microcontroller
+- [AT-89S52-project](https://github.com/RomiranE-bike/AT-89S52-project) - Programmable ultrasonic wave generator with swing patterns
+
+### 📊 Data Applications
+- [tse-app1401](https://github.com/RomiranE-bike/tse-app1401) - Persian stock market data scraper and analysis toolkit
+
+---
+
+## 🛠️ Technical Stack
+
+```python
+# Core Technologies
+mcu = ["STM32F103C8T6", "AT89S52", "ATTiny26"]
+protocols = ["CAN Bus", "PWM", "UART"]
+tools = ["PlatformIO", "Keil uVision", "Proteus"]
+
+<!--
+just test comment
+-->
+
 ![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
 ## Hi there 👋
 # Welcome to My Profile!
@@ -46,9 +84,7 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 </div>
 
 
-<!--
-just test comment
--->  
+  
 <!--
 **RomiranE-bike/RomiranE-bike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
