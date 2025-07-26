@@ -1,3 +1,43 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RomiranE-bike/Romiran_Ebike_project/main/profile-image.jpg" width="180" style="border-radius: 50%; border: 4px solid #2E4053" alt="Romiran E-Bike Engineer"/>
+  
+  <h1>Your Name</h1>
+  
+  <p>
+    <strong>E-Mobility Solutions Architect</strong> | Embedded Systems Expert | Sustainable Tech Innovator
+  </p>
+  
+  [![LinkedIn](https://img.shields.io/badge/Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+  [![Email](https://img.shields.io/badge/Contact-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
+  ![Visitors](https://komarev.com/ghpvc/?username=RomiranE-bike&label=Profile%20Views&color=0E75B6)
+
+</div>
+
+---
+
+## 🔋 Featured E-Mobility Projects
+
+| Project | Description | Tech Stack | Documentation |
+|---------|-------------|------------|---------------|
+| **[Romiran E-Bike System](https://github.com/RomiranE-bike/Romiran_Ebike_project)** | Advanced torque-sensing electric bicycle controller | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python" height="20"> <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino" height="20"> <img src="https://img.shields.io/badge/-CAN%20Bus-000000?logo=can" height="20"> | [📚 Wiki](https://github.com/RomiranE-bike/Romiran_Ebike_project/wiki) |
+| **[Battery Management System](https://github.com/RomiranE-bike/BMS)** | AI-driven lithium-ion battery optimization | TensorFlow Lite, C++, ESP32 | ![Status](https://img.shields.io/badge/Status-In%20Development-yellow) |
+| **[E-Bike Telemetry](https://github.com/RomiranE-bike/Telemetry-Dashboard)** | Real-time riding analytics dashboard | React, MQTT, Grafana | ![Release](https://img.shields.io/github/v/release/RomiranE-bike/Telemetry-Dashboard) |
+
+---
+
+## 🛠️ Core Technical Stack
+
+```python
+# Embedded Systems
+mcu = ["STM32", "ESP32", "Arduino"]
+protocols = ["CAN Bus", "Modbus", "BLE"]
+
+# Data Science
+battery_ai = ["TensorFlow Lite", "Kalman Filters", "SOC Estimation"]
+
+# Mechanical
+design_tools = ["Fusion 360", "ANSYS", "SolidWorks"]
+
 ![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
 # Hi there 👋 I'm [Your Name]
 
