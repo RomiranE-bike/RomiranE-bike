@@ -7,7 +7,7 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
   <!-- Profile image with alt text for accessibility -->
-  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg" width="1800" alt="Romiran E-Bike Projects Logo">
+  <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/romiran-e-bike-controller-schematic.jpg" width="1800" alt="Romiran E-Bike Projects Logo">
   
 </div>
 
