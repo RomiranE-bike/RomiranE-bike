@@ -12,6 +12,26 @@
 </div>
 
 
+<div align="center">
+  
+  ![Romiran Banner](profile.jpg)
+
+  # Romiran E-Bike Projects
+
+  ### ⚠️ Intellectual Property Notice
+  <div style="background: #FFF3CD; padding: 1rem; border-radius: 8px; border-left: 4px solid #FFC107;">
+    <strong>The Romiran brand and all related projects are proprietary.</strong><br>
+    • All designs, code, and documentation are protected intellectual property.<br>
+    •   PROJECT OWNERSHIP NOTICE:
+    • The RomiranE-bike electric scooter project represents proprietary research and development work.
+      All intellectual property rights (including but not limited to the RomiranE-bike name, logo, 
+      designs, technical documentation, and product concepts) are exclusively owned by RomiranE-bike.
+  
+    • This repository is shared for educational and collaborative purposes only.
+      Commercial use, reproduction, or derivative works require express written permission.<br>
+  </div>
+</div>
+
 <!-- ![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)-->
 ## Hi there 👋
 # Welcome to My Profile!
