@@ -55,7 +55,8 @@ This resource or repository is for educational and research purposes.
 
 
 ## 🔍 My Repositories 
-- [RomiranE_bike_project](https://github.com/RomiranE-bike/RomiranE_bike_project) - The Romiran electric scooter project is an ambitious personal idea that I am building and developing with the aim of producing and commercializing it. I own the ownership or rights to the name, logo, design, idea, and document. Any use of them is subject to obtaining permission.
+- [RomiranE_bike_project](https://github.com/RomiranE-bike/RomiranE_bike_project) - The RomiranE-bike electric scooter project is an ambitious personal idea, currently in active development with plans for future 
+   production and commercialization. 
 - [BLDC_motor_project](https://github.com/RomiranE-bike/BLDC_motor_project) - Brushless DC motor operation and testing.
 - [my_art](https://github.com/RomiranE-bike/my_art) - Artistic wooden creations for friends.
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.  
