@@ -96,6 +96,55 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 </div>
 
 
+## 🔍 Project-Specific Stats
+
+<div align="center">
+  
+| Metric | Romiran_Ebike_project | BLDC_motor_project |
+|--------|----------------------|-------------------|
+| **Stars** | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/Romiran_Ebike_project) | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/BLDC_motor_project) |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/Romiran_Ebike_project) | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/BLDC_motor_project) |
+| **Open Issues** | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/Romiran_Ebike_project) | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/BLDC_motor_project) |
+
+</div>
+
+
+## 🔍 Project-Specific Statistics (Live)
+
+<div align="center">
+  
+| Metric | Romiran_Ebike_project | BLDC_motor_project | AT-89S52-project | function-genrator |
+|--------|----------------------|--------------------|------------------|-------------------|
+| **Stars** | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=2E4053) | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=2E4053) | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=2E4053) | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/function-genrator?style=flat-square&labelColor=2E4053) |
+| **Forks** | ![Forks](https://img.shields.io/github/forks/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=2E8B57) | ![Forks](https://img.shields.io/github/forks/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=2E8B57) | ![Forks](https://img.shields.io/github/forks/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=2E8B57) | ![Forks](https://img.shields.io/github/forks/RomiranE-bike/function-genrator?style=flat-square&labelColor=2E8B57) |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=6C757D) | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=6C757D) | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=6C757D) | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/function-genrator?style=flat-square&labelColor=6C757D) |
+| **Commit Activity** |	![commit-activity](https://img.shields.io/github/commit-activity/m/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=6C757D)|
+| **Open Issues** | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=D63384) | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=D63384) | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=D63384) | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/function-genrator?style=flat-square&labelColor=D63384) |
+| **Closed Issues** | ![Closed Issues](https://img.shields.io/github/issues-closed/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=28A745) | ![Closed Issues](https://img.shields.io/github/issues-closed/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=28A745) | ![Closed Issues](https://img.shields.io/github/issues-closed/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=28A745) | ![Closed Issues](https://img.shields.io/github/issues-closed/RomiranE-bike/function-genrator?style=flat-square&labelColor=28A745) |
+| **PRs Merged** | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=6F42C1) | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=6F42C1) | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=6F42C1) | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/RomiranE-bike/function-genrator?style=flat-square&labelColor=6F42C1) |
+| **Repo Size** | ![Size](https://img.shields.io/github/repo-size/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=FD7E14) | ![Size](https://img.shields.io/github/repo-size/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=FD7E14) | ![Size](https://img.shields.io/github/repo-size/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=FD7E14) | ![Size](https://img.shields.io/github/repo-size/RomiranE-bike/function-genrator?style=flat-square&labelColor=FD7E14) |
+| **Code Frequency** | ![Code Frequency](https://img.shields.io/github/commit-activity/y/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=17A2B8) | ![Code Frequency](https://img.shields.io/github/commit-activity/y/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=17A2B8) | ![Code Frequency](https://img.shields.io/github/commit-activity/y/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=17A2B8) | ![Code Frequency](https://img.shields.io/github/commit-activity/y/RomiranE-bike/function-genrator?style=flat-square&labelColor=17A2B8) |
+| **License** | ![License](https://img.shields.io/github/license/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=343A40) | ![License](https://img.shields.io/github/license/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=343A40) | ![License](https://img.shields.io/github/license/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=343A40) | ![License](https://img.shields.io/github/license/RomiranE-bike/function-genrator?style=flat-square&labelColor=343A40) |
+
+</div>
+
+  ## 📊 Repository Statistics
+  
+<div align="center">
+  
+### Overall Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomiranE-bike&show_icons=true&count_private=true&theme=radical)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomiranE-bike&layout=compact&theme=radical&hide=html,css)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomiranE-bike&theme=radical)
+
+
+[![Contribution Graph](https://ghchart.rshah.org/RomiranE-bike)](https://github.com/RomiranE-bike)   
+
+</div>
   
 <!--
 **********************************
