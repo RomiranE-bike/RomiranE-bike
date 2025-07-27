@@ -6,6 +6,7 @@
   - Keywords: 5-8 key terms for search engines
   - Canonical: Prevents duplicate content issues
 -->
+
 <meta name="description" content="electric scooter & BLDC motor control projects by RomiranE-bike - STM32 firmware and FOC motor control">
 <meta name="keywords" content="e-bike, electric scooter, BLDC motor control, RomiranE-bike,iran ,mazandaran,mahmoud esmaeili">
 <link rel="canonical" href="https://github.com/RomiranE-bike">
@@ -13,7 +14,7 @@
 <!-- ======================== -->
 <!-- 2. PROFILE HEADER -->
 <!-- ======================== -->
-<!-- 
+<!--*************************************************************************************************************************************************************************
   - Logo: Use 200x200px for best results
     PROFILE HEADER - Visual introduction with branding
   • Centered logo with alt text for accessibility/SEO
@@ -21,7 +22,8 @@
   • Subtitle (H2) with secondary keyword
   • Badges for important links (styled with shields.io)
   - Badges: Link to key resources
--->
+***************************************************************************************************************************************************************************-->
+
 <div align="center">
   <!-- Profile image with alt text for accessibility -->
   <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/romiran-e-bike-controller-schematic.jpg" width="1800" alt="Romiran E-Bike Projects Logo">
@@ -41,7 +43,10 @@
   </div>
 </div>
 
-<!-- ![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)-->
+<!--************************************************************************************************************************************************************************* 
+![My Profile Image](https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/profile.jpg)
+***************************************************************************************************************************************************************************-->
+
 ## Hi there 👋
 # Welcome to My Profile!
 This resource or repository is for educational and research purposes.
@@ -79,14 +84,15 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 - **STM32F103C8T6**
 - **Ultrasonic Wave swing and pattern**
 
----
 
-<!-- 
+
+<!--*************************************************************************************************************************************************************************
   FOOTER - Engagement elements
   • GitHub Stats API for dynamic metrics
   • Visitor counter badge
   • Structured data for rich snippets
--->
+***************************************************************************************************************************************************************************-->
+
 <div align="center">
   
   [![View All Repositories](https://img.shields.io/badge/Explore_All_Projects-View_Repository_List-8A2BE2)](https://github.com/RomiranE-bike?tab=repositories)
@@ -110,7 +116,7 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 
 </div>
 
-
+<!--**************************************************************************************************************************************************************************
 ## 🔍 Project-Specific Statistics (Live)
 
 <div align="center">
@@ -129,30 +135,30 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 | **License** | ![License](https://img.shields.io/github/license/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=343A40) | ![License](https://img.shields.io/github/license/RomiranE-bike/BLDC_motor_project?style=flat-square&labelColor=343A40) | ![License](https://img.shields.io/github/license/RomiranE-bike/AT-89S52-project?style=flat-square&labelColor=343A40) | ![License](https://img.shields.io/github/license/RomiranE-bike/function-genrator?style=flat-square&labelColor=343A40) |
 
 </div>
-
+***************************************************************************************************************************************************************************-->
   ## 📊 Repository Statistics
   
 <div align="center">
   
 ### Overall Activity
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomiranE-bike&show_icons=true&count_private=true&theme=radical)
-
+<!--*************************************************************************************************************************************************************************
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomiranE-bike&layout=compact&theme=radical&hide=html,css)
 
 ### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomiranE-bike&theme=radical)
-
+***************************************************************************************************************************************************************************-->
 </div>
 
 
-<!--
+<!--*************************************************************************************************************************************************************************
 [![Contribution Graph](https://ghchart.rshah.org/RomiranE-bike)](https://github.com/RomiranE-bike)   
 
--->
+***************************************************************************************************************************************************************************-->
   
-<!--
-**********************************
+<!--*************************************************************************************************************************************************************************
+
 **RomiranE-bike/RomiranE-bike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -165,5 +171,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-*******************************************
--->
+***************************************************************************************************************************************************************************-->
