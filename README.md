@@ -100,11 +100,13 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 
 <div align="center">
   
-| Metric | Romiran_Ebike_project | BLDC_motor_project |
-|--------|----------------------|-------------------|
-| **Stars** | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/Romiran_Ebike_project) | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/BLDC_motor_project) |
-| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/Romiran_Ebike_project) | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/BLDC_motor_project) |
-| **Open Issues** | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/Romiran_Ebike_project) | ![Issues](https://img.shields.io/github/issues/RomiranE-bike/BLDC_motor_project) |
+| Metric | Romiran_Ebike_project | 
+|--------|----------------------|
+| **Stars** | ![Stars](https://img.shields.io/github/stars/RomiranE-bike/Romiran_Ebike_project) | 
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/RomiranE-bike/Romiran_Ebike_project) |
+| **Commit Activity** |	![commit-activity](https://img.shields.io/github/commit-activity/m/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=6C757D)|
+| **Repo Size** | ![Size](https://img.shields.io/github/repo-size/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=FD7E14) |
+| **Code Frequency** | ![Code Frequency](https://img.shields.io/github/commit-activity/y/RomiranE-bike/Romiran_Ebike_project?style=flat-square&labelColor=17A2B8) |
 
 </div>
 
@@ -141,10 +143,13 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 ### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomiranE-bike&theme=radical)
 
+</div>
 
+
+<!--
 [![Contribution Graph](https://ghchart.rshah.org/RomiranE-bike)](https://github.com/RomiranE-bike)   
 
-</div>
+-->
   
 <!--
 **********************************
