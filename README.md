@@ -64,6 +64,8 @@ This resource or repository is for educational and research purposes.
    production and commercialization. 
 - [BLDC_motor_project](https://github.com/RomiranE-bike/BLDC_motor_project) - Brushless DC motor operation and testing.
 - [my_art](https://github.com/RomiranE-bike/my_art) - Artistic wooden creations for friends.
+- [Q_line_ver.1](https://github.com/RomiranE-bike/Q_line_ver.1) - Simple implementation of image processing automation line
+- [Q_line_ver.2](https://github.com/RomiranE-bike/Q_line_ver.2) - Simple implementation of automation line
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.  
 - [AT-89S52-project](https://github.com/RomiranE-bike/AT-89S52-project) - Project to create ultrasonic waves with swing and pattern capabilities with AT89S52.
 - 
