@@ -138,21 +138,23 @@ Multi-sensor thermoswitch with temperature adjustment capability and seven-segme
 
 </div>
 ***************************************************************************************************************************************************************************-->
+
+<!--*************************************************************************************************************************************************************************
   ## 📊 Repository Statistics
   
 <div align="center">
   
 ### Overall Activity
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomiranE-bike&show_icons=true&count_private=true&theme=radical)
-<!--*************************************************************************************************************************************************************************
+
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomiranE-bike&layout=compact&theme=radical&hide=html,css)
 
 ### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomiranE-bike&theme=radical)
-***************************************************************************************************************************************************************************-->
-</div>
 
+</div>
+***************************************************************************************************************************************************************************-->
 
 <!--*************************************************************************************************************************************************************************
 [![Contribution Graph](https://ghchart.rshah.org/RomiranE-bike)](https://github.com/RomiranE-bike)   
