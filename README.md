@@ -60,10 +60,11 @@ This resource or repository is for educational and research purposes.
 
 
 ## 🔍 My Repositories 
-- [RomiranE_bike_project](https://github.com/RomiranE-bike/RomiranE_bike_project) - The RomiranE-bike electric scooter project is an ambitious personal idea, currently in active development with plans for future 
+- [RomiranE_bike_project](https://github.com/RomiranE-bike/RomiranE_bike_project) - The RomiranE-bike electric scooter project is an ambitious personal idea,currently in active development with plans for future 
    production and commercialization. 
 - [BLDC_motor_project](https://github.com/RomiranE-bike/BLDC_motor_project) - Brushless DC motor operation and testing.
 - [my_art](https://github.com/RomiranE-bike/my_art) - Artistic wooden creations for friends.
+- [my_NFT](https://github.com/RomiranE-bike/my_NFT) - Each NFT in this collection serves as a digital counterpart to my original woodcraft creations, permanently preserving their artistic essence on the blockchain.
 - [Q_line_ver.1](https://github.com/RomiranE-bike/Q_line_ver.1) - Simple implementation of image processing automation line
 - [Q_line_ver.2](https://github.com/RomiranE-bike/Q_line_ver.2) - Simple implementation of automation line
 - [function-genrator](https://github.com/RomiranE-bike/function-genrator) - Ultrasonic wave generator with ATTiny26.  
