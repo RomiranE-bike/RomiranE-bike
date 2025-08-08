@@ -51,7 +51,7 @@
 # Welcome to My Profile!
 This resource or repository is for educational and research purposes.
 # 
-# Thanks to GENIRAN FAN ( با سپاس از ژنیران فن)
+<!--# Thanks to GENIRAN FAN ( با سپاس از ژنیران فن)-->
 
 ## 📌 Pinned Repositories
 <!--START_SECTION:automated-pins-->
