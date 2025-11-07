@@ -23,13 +23,13 @@
   • Badges for important links (styled with shields.io)
   - Badges: Link to key resources
 ***************************************************************************************************************************************************************************-->
-
+<!--************************************************************************************************************************************************************************* 
 <div align="center">
   <!-- Profile image with alt text for accessibility -->
   <img src="https://raw.githubusercontent.com/RomiranE-bike/RomiranE-bike/main/romiran-e-bike-controller-schematic.jpg" width="1800" alt="Romiran E-Bike Projects Logo">
   
 </div>
-
+***************************************************************************************************************************************************************************-->
 
 <div align="center">  
   <strong>  RomiranE-Bike Projects </strong><br> 
